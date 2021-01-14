@@ -7,7 +7,7 @@ console.log(daysEl);
 console.log(minsEl);
 
 
-const newYears="5 jan 2022";
+const newYears="1 jan 2022";
 
 function countdown()
 {
