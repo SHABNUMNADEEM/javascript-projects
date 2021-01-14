@@ -1,2 +1,2 @@
 # javascript-projects
-this is the time for new year
+This is the count down timer for new year
